@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCompass</string>
+    <string name="direction">%1$d</string>
+</resources>
